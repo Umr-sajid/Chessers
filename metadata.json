@@ -1,6 +1,6 @@
 {
-  "name": "Chess Platform",
-  "description": "A complete offline chess application featuring Stockfish engine, game reviews, coaching, computer opponents, puzzles, opening database, and endgame training.",
+  "name": "Chessers",
+  "description": "A full-featured offline chess platform with AI coaching, Stockfish engine, puzzles, openings database, and endgame training.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
